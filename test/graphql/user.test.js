@@ -23,7 +23,7 @@ it('listagem de usuários', async () => {
           id: like("6786f13052f9b1cffcfcd15a"),
           email: like("alisa.pagac62@gmail.com"),
           profile: {
-            firstName: like("Elian")
+            firstName: like("Eliana")
           }
         })
       }
