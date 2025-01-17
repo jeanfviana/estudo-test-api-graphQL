@@ -11,7 +11,7 @@
   "description": "",
   "devDependencies": {
     "mocha": "^11.0.1",
-    "pactum": "^3.7.6"
+    "pactum": "^3.6.0"
   },
   "dependencies": {
     "pactum-matchers": "^1.1.7"
